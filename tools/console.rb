@@ -18,7 +18,7 @@ s2 = Song.new(a3, g1)
 s3 = Song.new(a1, g1)
 s4 = Song.new(a1, g3)
 s5 = Song.new(a4, g2)
-
+s6 = Song.new(a4, g2)
 
 binding.pry
 0 #leave this here to ensure binding.pry isn't the last line
